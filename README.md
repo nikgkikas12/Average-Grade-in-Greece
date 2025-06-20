@@ -13,3 +13,4 @@ A simple Python script that calculates a student's average grade and assigns a c
 2. Download or clone this repository
 3. Run the script:
    ```bash
+   python average grade.py
